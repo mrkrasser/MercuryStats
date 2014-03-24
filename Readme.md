@@ -52,3 +52,7 @@ https://xively.com/feeds/19249442
 `00 06 47 5E 25 6D 26` | коррекция времени кнопками                           
 `00 06 47 5E 24 AC E6` | флаг перехода зимнее.летнее
 
+### Ссылки
+- http://incotex-counter.blogspot.ru/2011/03/can-rs485.html
+- http://www.ab-log.ru/smart-house/mercury-230
+- https://github.com/sergray/energy-meter-mercury206
