@@ -9,4 +9,4 @@ Communication with energy power meter [Mercury 200.02](http://www.incotexcom.ru/
 
 ![](examples/node-red-MercuryStats.png)
 
-Full information [in Russian](Readme.ru.md)
+Full information available [in Russian](Readme.ru.md)
