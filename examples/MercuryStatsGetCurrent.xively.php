@@ -1,4 +1,4 @@
-#!/usr/bin/env php-cli
+#!/usr/bin/env php
 <?php
 /**
 * Get current data from Mercury 200.02(usb-rs485) and put to xively.com

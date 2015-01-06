@@ -1,0 +1,1 @@
+[{"id":"77b961aa.72b808","type":"inject","name":"getTotalEnergy","topic":"","payload":"","payloadType":"none","repeat":"3600","crontab":"","once":false,"x":293,"y":269,"z":"c2f61f76.2fd47","wires":[["59e6f1e8.5e931"]]}]
